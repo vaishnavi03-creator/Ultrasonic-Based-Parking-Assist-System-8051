@@ -35,3 +35,8 @@ project1.hex – Compiled microcontroller file
 Ultrasonic_Parking_Assist_Report.pdf – Project report  
 circuit.png – Proteus circuit diagram  
 output images – Simulation output screenshots
+
+2)State a possible loophole in your system.
+ans:One possible limitation of the system is that ultrasonic sensors may give inaccurate readings in heavy rain, fog, or when detecting soft surfaces that absorb sound waves.
+3)How are embedded systems helping persons having disabilities to blend in society?
+Embedded systems help persons with disabilities by providing assistive technologies such as hearing aids, smart wheelchairs, voice-controlled devices, and navigation assistance systems. These technologies improve independence, safety, and quality of life, allowing disabled individuals to participate more effectively in society.
